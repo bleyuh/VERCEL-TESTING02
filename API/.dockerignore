@@ -1,0 +1,10 @@
+# Keep your computer's build output and data out of the image
+bin/
+obj/
+data.json
+.vs/
+.vscode/
+.git/
+README.md
+Dockerfile
+.dockerignore

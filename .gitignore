@@ -1,0 +1,15 @@
+# build output and data created while the app runs: never upload these
+**/bin/
+**/obj/
+data.json
+.vs/
+.vscode/
+
+# tools
+node_modules/
+.vercel/
+.env
+.env.*
+.DS_Store
+Thumbs.db
+*.zip
