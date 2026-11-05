@@ -5,5 +5,5 @@
 //
 // Keep the "/api" at the end and do not add a "/" after it.
 window.APP_CONFIG = {
-  apiUrl: 'http://localhost:5005/api'
+  apiUrl: ' https://vercel-testing02.onrender.com/api',
 };
